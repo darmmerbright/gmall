@@ -8,10 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.atguigu</groupId>
-    <artifactId>gmall-pms</artifactId>
+    <artifactId>gmall-oms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gmall-pms</name>
-    <description>商品管理系统</description>
+    <name>gmall-oms</name>
+    <description>订单管理系统</description>
 
     <properties>
     </properties>
@@ -81,5 +81,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

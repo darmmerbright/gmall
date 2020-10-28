@@ -8,10 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.atguigu</groupId>
-    <artifactId>gmall-pms</artifactId>
+    <artifactId>gamll-ums</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gmall-pms</name>
-    <description>商品管理系统</description>
+    <name>gamll-ums</name>
+    <description>用户管理系统</description>
 
     <properties>
     </properties>
